@@ -1,1 +1,3 @@
-source <(curl -sL https://cdn.learnenough.com/heroku_install)
+Project in order to computerize community service system of Crescenta Valley High School.
+
+Created by Prashanth Bhaskara and Connor Harvey
